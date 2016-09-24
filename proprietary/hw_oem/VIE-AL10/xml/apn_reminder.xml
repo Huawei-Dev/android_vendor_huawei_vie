@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<apnReminderList version="1">
+    <!-- DTS2016030211075 y00223755 20160315 begin -->
+    <apnReminder plmn="23415" remindType="imsiChange" title="Please Choose your Tariff:">
+        <apnSetting
+            name="PAYG WAP"
+            apn="pp.vodafone.co.uk"
+            displayName="1 for Vodafone Prepay"
+            onsName="vodafone UK"
+            otherApns = "PAYG WAP:pp.vodafone.co.uk"
+            vmNumber="121"
+            vmTag="voicemail"
+        />
+        <apnSetting
+            name="Contract WAP"
+            apn="wap.vodafone.co.uk"
+            displayName="2 for Vodafone Postpay"
+            onsName="vodafone UK"
+            otherApns = ""
+            vmNumber="121"
+            vmTag="voicemail"
+        />
+        <apnSetting
+            name="Sainsbury's PAYG"
+            apn="payg.mobilebysainsburys.co.uk"
+            displayName="3 for Sainsbury's"
+            onsName="Sainsbury's"
+            otherApns = ""
+            vmNumber="121"
+            vmTag="voicemail"
+        />
+        <apnSetting
+            name="Talkmobile Prepay"
+            apn="payg.talkmobile.co.uk"
+            displayName="1 for Talk Mobile Prepay"
+            onsName="Talkmobile"
+            otherApns = ""
+            vmNumber="121"
+            vmTag="voicemail"
+        />
+        <apnSetting
+            name="Talkmobile Contract"
+            apn="talkmobile.co.uk"
+            displayName="2 for Talk Mobile Postpay"
+            onsName="Talkmobile"
+            otherApns = ""
+            vmNumber="121"
+            vmTag="voicemail"
+        />
+    </apnReminder>
+    <!-- DTS2016030211075 y00223755 20160315 end -->
+</apnReminderList>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="gb2312"?>
+<LaserFOVDefConfig>
+   <DefaultOffset>12</DefaultOffset>
+   <DefaultCrosstalk>20</DefaultCrosstalk>
+   <DefaultX>2068</DefaultX>
+   <DefaultY>1848</DefaultY>
+   <DefaultWidth>1358</DefaultWidth>
+   <DefaultHeight>1358</DefaultHeight>
+   <DefaultAngle>80</DefaultAngle>
+</LaserFOVDefConfig>
