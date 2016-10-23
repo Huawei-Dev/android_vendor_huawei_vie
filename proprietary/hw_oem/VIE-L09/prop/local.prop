@@ -107,7 +107,6 @@ gsm.fastdormancy.mode=0
 ro.product.hardwareversion=HL1AVIENNAM
 ######## 7.PRODUCT INFO END
 #BEGIN AR0003BQMV rcs config,  Added by l00261417, 2016/03/07
-ro.config.hw_rcs_vs_is=2
 ro.config.hw_rcs_product=true
 #END AR0003BQMV rcs config,  Added by l00261417, 2016/03/07
 #####################################################################################
@@ -119,3 +118,21 @@ ro.config.hw_channel_info=0,0,0,0
 #AR0003US0O linneng wx296161 20160308 begin
 ro.config.support_ca=true
 #AR0003US0O linneng wx296161 20160308 end
+
+ro.product.BaseVersion=VIE-L09C900B170
+
+ro.build.display.id=VIE-L09C900B180
+
+ro.product.board=VIE-L09
+
+ro.product.name=VIE-L09
+
+ro.product.model=VIE-L09
+
+ro.product.BaseDescription=VIE-L09-user 6.0 HUAWEIVIE-L09 C900B180 release-keys
+
+ro.product.BaseFingerprint=HUAWEI/VIE-L09/HWVIE:6.0/HUAWEIVIE-L09/C900B180:user/release-keys
+
+ro.product.CustDVersion=D004
+
+ro.build.id=HUAWEIVIE-L09

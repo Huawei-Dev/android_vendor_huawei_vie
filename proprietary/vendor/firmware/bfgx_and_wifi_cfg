@@ -1,4 +1,5 @@
 @BFGX and WiFi patch info      
+@hi1102_version=Hi1102 V100R001C01B100SP08      
 PARA_VERSION=Hi1102V100;      
 PARA_SETPM=1;      
 PARA_WRITEM=2,0x50000140,6;      
@@ -22,4 +23,4 @@ PARA_WRITEM=2,0x50000074,0x1;
 @PARA_WRITEM=2,0x50000094,1;      
 SHUTDOWN_BFGX;      
 QUIT;      
-@device_version=20160607170515       
+@device_version=20160816220042       

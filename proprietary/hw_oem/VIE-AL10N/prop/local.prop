@@ -83,6 +83,11 @@ persist.sys.vr_max_brightness=255
 #####################################################################################
 ######## 4.FRAMEWORK TEAM BEGIN
 ro.config.hw_nlp=com.amap.android.ams
+ro.config.hw_auto_acc_enable=true
+ro.config.hw_nc_chr_gps=true
+# DTS2016060606663 shiyuanchang/00271386 20160704 begin
+ro.config.hw_support_clone_app=true
+# DTS2016060606663 shiyuanchang/00271386 20160704 end
 ######## 4.FRAMEWORK TEAM END
 #####################################################################################
 ######## 5.DATA SERVICE TEAM BEGIN
@@ -111,19 +116,3 @@ ro.hwpp.is_tuneric_low_perf=true
 ########"                                                       "############
 ########"   ONLY APP TEAM PROPS ALLOWED IN THIS SECTION END     "############
 #############################################################################
-
-ro.product.BaseVersion=VIE-AL10NC00B183
-
-ro.product.board=VIE-AL10N
-
-ro.product.name=VIE-AL10N
-
-ro.product.model=VIE-AL10N
-
-ro.product.BaseDescription=VIE-AL10N-user 6.0 HUAWEIVIE-AL10N C00B183 release-keys
-
-ro.product.BaseFingerprint=HUAWEI/VIE-AL10N/HWVIE:6.0/HUAWEIVIE-AL10N/C00B183:user/release-keys
-
-ro.product.CustDVersion=D183
-
-ro.build.id=HUAWEIVIE-AL10N

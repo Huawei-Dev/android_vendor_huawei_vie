@@ -110,3 +110,21 @@ ro.config.hw_channel_info=0,0,0,0
 #AR0003US0O linneng wx296161 20160308 begin
 ro.config.support_ca=true
 #AR0003US0O linneng wx296161 20160308 end
+
+ro.product.BaseVersion=VIE-L29C900B170
+
+ro.build.display.id=VIE-L29C900B180
+
+ro.product.board=VIE-L29
+
+ro.product.name=VIE-L29
+
+ro.product.model=VIE-L29
+
+ro.product.BaseDescription=VIE-L29-user 6.0 HUAWEIVIE-L29 C900B180 release-keys
+
+ro.product.BaseFingerprint=HUAWEI/VIE-L29/HWVIE:6.0/HUAWEIVIE-L29/C900B180:user/release-keys
+
+ro.product.CustDVersion=D004
+
+ro.build.id=HUAWEIVIE-L29
